@@ -1,9 +1,19 @@
-# Evgeniy Kolodko  
+1. # Evgeniy Kolodko 
 
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода *
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.**
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+2. Phone number: 375(29)7363170, instagram: https://www.instagram.com/evgeniikolodko/ 
+
+3. *My goal is to find employment in an IT company, if I set a goal for myself, then I achieve it. Of my qualities, I can note: resistance to stress, dedication, lack of fear of being wrong.*  
+  
+4. **HTML, CSS, GIT** 
+
+5. ```html
+            <div class="skills-block">
+                <ul class="skills-row-one">
+                    <li> 
+   ```
+6.  
+
+7. Higher education (Polesskiy State University, Faculty of Banking) 
+
+8. English (A2)  
+
